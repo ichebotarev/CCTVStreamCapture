@@ -8,7 +8,7 @@ frames_per_second = 24.0
 res = '720p'
 
 # Set resolution for the video capture
-# Function adapted from https://kirr.co/0l6qmh
+
 
 
 def change_res(cap, width, height):
